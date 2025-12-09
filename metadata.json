@@ -1,0 +1,8 @@
+{
+  "name": "Kinzoku Blueprint Forge",
+  "description": "A professional industrial prototyping tool for generating technical specifications and photorealistic blueprints using Gemini and Imagen.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
